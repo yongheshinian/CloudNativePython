@@ -1,0 +1,71 @@
+Table of Contents
+1: Introducing Cloud Native Architecture and Microservices
+Introduction to cloud computing
+The cloud native concepts
+Understanding the twelve-factor app
+Setting up the Python environment
+Summary
+2: Building Microservices in Python
+Python concepts
+Modeling microservices
+Building microservices
+Testing the RESTful API
+Summary
+3: Building a Web Application in Python
+Getting started with applications
+Creating application users
+Creating tweets from users
+CORS - Cross-Origin Resource Sharing
+Session management
+Cookies
+Summary
+4: Interacting Data Services
+MongoDB - How it is advantageous, and why are we using it?
+Setting up MongoDB
+Summary
+5: Building WebViews with React
+Understanding React
+Setting up the React environment
+Building webViews with React
+User authentication
+Testing the React webViews
+Summary
+6: Creating UIs to Scale with Flux
+Understanding Flux
+Summary
+7: Learning Event Sourcing and CQRS
+Introduction
+Understanding Event Sourcing
+Introduction to CQRS
+Kafka as an eventstore
+Summary
+8: Securing the Web Application
+Network security versus application security
+A word on developing security-enabled web applications
+Summary
+9: Continuous Delivery
+Evolution of continuous integration and continuous delivery
+Continuous integration
+Jenkins - a continuous integration tool
+Setting up a Jenkins job
+Understanding continuous delivery
+Summary
+10: Dockerizing Your Services
+Understanding Docker
+Deploying an application on Docker
+Summary
+11: Deploying on the AWS Platform
+Getting started with Amazon Web Services (AWS)
+Building application infrastructure on AWS
+Continuous Deployment for a cloud native application
+Summary
+12: Implementing on the Azure Platform
+Getting started with Microsoft Azure
+CI/CD pipeline using Jenkins with Azure
+Summary
+13: Monitoring the Cloud Application
+Monitoring on the cloud platform
+AWS-based services
+Microsoft Azure services
+Open source monitoring tool
+Summary
